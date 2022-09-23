@@ -1,6 +1,6 @@
 # Hats Finance CTF #2
 
-This repo contains the solution to (Hats Finance CTF challenge #2)[https://github.com/hats-finance/vault-game].
+This repo contains the solution to [Hats Finance CTF challenge #2](https://github.com/hats-finance/vault-game).
 
 ## Requirements
 - Foundry
